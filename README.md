@@ -19,7 +19,14 @@
 
 ###
 
-<p align="left">I'm HOSAILY Fadl-Allah <br><br>- 🔭 I'm currently a talent at Zone01Oujda.</p>
+<p align="left">
+  I'm HOSAILY Fadl-Allah, a passionate and curious developer currently growing my skills at <strong>Zone01Oujda</strong>. <br><br>
+  💡 I enjoy solving real-world problems through code and always look forward to learning new technologies.<br>
+  🚀 My current focus is on full-stack development, databases, and system-level programming.<br>
+  🌍 I'm particularly interested in contributing to open source and collaborative tech communities.<br>
+  🎯 I'm driven by a love for clean, efficient code and intuitive design.<br><br>
+  Let's connect and build something meaningful!
+</p>
 
 ###
 
